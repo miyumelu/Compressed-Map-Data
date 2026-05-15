@@ -1,0 +1,21 @@
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.vbproj.AssemblyReference.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD_Create.MainPage.resources
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.vbproj.GenerateResource.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.AssemblyInfoInputs.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.AssemblyInfo.vb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.vbproj.CoreCompileInputs.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.sourcelink.json
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\CMD-Create.exe
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\CMD-Create.deps.json
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\CMD-Create.runtimeconfig.json
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\CMD-Create.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\CMD-Create.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\Core Dictionary Module.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\neXt Window Managment System.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.vbproj.Up2Date
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\refint\CMD-Create.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.genruntimeconfig.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\ref\CMD-Create.dll

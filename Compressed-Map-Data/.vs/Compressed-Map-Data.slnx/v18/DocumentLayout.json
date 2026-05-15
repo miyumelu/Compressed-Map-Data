@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compressed-Map-Data",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data.vbproj",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Compressed-Map-Data.vbproj",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data.vbproj",
+              "RelativeToolTip": "Compressed-Map-Data\\Compressed-Map-Data.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-05-14T12:07:21.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Test.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\Test.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:54:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMapCompositor.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\IMapCompositor.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\IMapCompositor.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\IMapCompositor.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\IMapCompositor.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:42:55.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Reader.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\Reader.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:42:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Packer.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Packer.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Packer.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Packer.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\Packer.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:34:13.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

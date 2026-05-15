@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "CMD-Create\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\My Project\\Application.Designer.vb*",
+              "RelativeToolTip": "CMD-Create\\My Project\\Application.Designer.vb*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T00:54:40.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\MainPage.vb",
+              "RelativeDocumentMoniker": "CMD-Create\\MainPage.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\MainPage.vb [Entwurf]",
+              "RelativeToolTip": "CMD-Create\\MainPage.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T00:53:14.662Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

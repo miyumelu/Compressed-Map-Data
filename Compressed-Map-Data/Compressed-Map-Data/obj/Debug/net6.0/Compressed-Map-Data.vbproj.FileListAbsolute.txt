@@ -1,0 +1,13 @@
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\bin\Debug\net6.0\Compressed-Map-Data.deps.json
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\bin\Debug\net6.0\Compressed-Map-Data.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\bin\Debug\net6.0\Compressed-Map-Data.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.vbproj.AssemblyReference.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.AssemblyInfoInputs.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.AssemblyInfo.vb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.vbproj.CoreCompileInputs.cache
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.sourcelink.json
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\refint\Compressed-Map-Data.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\Compressed-Map-Data.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\Compressed-Map-Data\Compressed-Map-Data\obj\Debug\net6.0\ref\Compressed-Map-Data.dll

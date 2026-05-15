@@ -1,0 +1,16 @@
+[Map_Information]
+
+ <map_compatibility>HIQ</map_compatibility>
+ <map_publisher>MiMe Infortainment</map_publisher>
+ <map_version>159.1.01</mapversion>
+ <map_model>Road Ts-Map Europe 1.59 Professional 1.59</map_model>
+ <map_systemreq>1000.1.01</map_systemreq>
+
+ // This map has been created using https://github.com/dariowouters/ts-map
+ // The map color design made by Miyu Melu.
+ // This map uses the Compressed Map Data architecture by Miyu Melu. For more see https://github.com/miyumelu/compressedmapdata
+ // You can optain new map data using our Website https://miyumelu.com/support/hiq-nav/maps
+ // You can optain raw Ts-Map data from our Website https://dev.miyumelu.com/raw/maps
+ // This map is only made for the HIQ-Nav Series 1000. Using this on other versions can result on bricked systems.
+
+[Map_Information]
