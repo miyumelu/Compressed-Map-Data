@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\test.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\compressed-map-data.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\imapcompositor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{ABF24D96-88A3-407C-A06F-EFB9193BF01F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\reader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\compressed-map-data\\compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4A3A375E-A6C2-3127-673B-FBB3DADBFD9F}|Compressed-Map-Data\\Compressed-Map-Data.vbproj|solutionrelative:compressed-map-data\\packer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Test.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\Test.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:54:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reader.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
+              "RelativeDocumentMoniker": "Compressed-Map-Data\\Reader.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
+              "RelativeToolTip": "Compressed-Map-Data\\Reader.vb",
+              "ViewState": "AgIAADgBAAAAAAAAAAAcwHkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-14T11:42:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Compressed-Map-Data",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data.vbproj",
               "RelativeDocumentMoniker": "Compressed-Map-Data\\Compressed-Map-Data.vbproj",
@@ -50,20 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.vb",
-              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
-              "RelativeDocumentMoniker": "Compressed-Map-Data\\Test.vb",
-              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Test.vb",
-              "RelativeToolTip": "Compressed-Map-Data\\Test.vb",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-14T11:54:11.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IMapCompositor.vb",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\IMapCompositor.vb",
               "RelativeDocumentMoniker": "Compressed-Map-Data\\IMapCompositor.vb",
@@ -71,25 +84,11 @@
               "RelativeToolTip": "Compressed-Map-Data\\IMapCompositor.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-14T11:42:55.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T11:42:55.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Reader.vb",
-              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
-              "RelativeDocumentMoniker": "Compressed-Map-Data\\Reader.vb",
-              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Reader.vb",
-              "RelativeToolTip": "Compressed-Map-Data\\Reader.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-14T11:42:26.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Packer.vb",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\Compressed-Map-Data\\Compressed-Map-Data\\Packer.vb",
               "RelativeDocumentMoniker": "Compressed-Map-Data\\Packer.vb",
@@ -97,8 +96,7 @@
               "RelativeToolTip": "Compressed-Map-Data\\Packer.vb",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-14T11:34:13.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T11:34:13.284Z"
             }
           ]
         }

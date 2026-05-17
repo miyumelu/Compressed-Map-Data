@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0902B771-E0A1-412F-9989-AAEBA7C5A45C}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\cmd-create.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\cmd-create.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|c:\\users\\deniz\\documents\\github\\compressed-map-data\\cmd-create\\cmd-create\\aboutpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5CF942BC-E2A5-2AE9-F1D2-FDC5775EBE9B}|CMD-Create\\CMD-Create.vbproj|solutionrelative:cmd-create\\aboutpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Application.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\My Project\\Application.Designer.vb",
-              "RelativeDocumentMoniker": "CMD-Create\\My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\My Project\\Application.Designer.vb",
-              "RelativeToolTip": "CMD-Create\\My Project\\Application.Designer.vb",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-05-14T00:54:40.735Z",
+              "DocumentIndex": 1,
+              "Title": "CMD-Create",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\CMD-Create.vbproj",
+              "RelativeDocumentMoniker": "CMD-Create\\CMD-Create.vbproj",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\CMD-Create.vbproj",
+              "RelativeToolTip": "CMD-Create\\CMD-Create.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-05-15T23:03:12.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AboutPage.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\AboutPage.vb",
+              "RelativeDocumentMoniker": "CMD-Create\\AboutPage.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\AboutPage.vb [Entwurf]",
+              "RelativeToolTip": "CMD-Create\\AboutPage.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-15T22:56:23.88Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.vb",
+              "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\MainPage.vb",
+              "RelativeDocumentMoniker": "CMD-Create\\MainPage.vb",
+              "ToolTip": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\MainPage.vb",
+              "RelativeToolTip": "CMD-Create\\MainPage.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-05-15T16:34:15.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.vb [Entwurf]",
               "DocumentMoniker": "C:\\Users\\deniz\\Documents\\GitHub\\Compressed-Map-Data\\CMD-Create\\CMD-Create\\MainPage.vb",
               "RelativeDocumentMoniker": "CMD-Create\\MainPage.vb",

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Miyu Melu"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda9cce147d8470cb85b32854b1ae38d534b5675"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee3ce1a5be88d84108c5bca54ddc09456214d28"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Compressed-Map-Data"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Compressed-Map-Data"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

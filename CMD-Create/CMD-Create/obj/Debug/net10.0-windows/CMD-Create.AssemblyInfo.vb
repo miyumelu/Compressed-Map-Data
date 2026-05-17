@@ -13,13 +13,13 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("CMD-Create"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Miyu Melu"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
- Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6310fb282b7ac1a7f1510c4421743f902a9a97"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("CMD-Create"),  _
+ Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.14"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee3ce1a5be88d84108c5bca54ddc09456214d28"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("Compressed Map Data Tool"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CMD-Create"),  _
- Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
+ Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
 

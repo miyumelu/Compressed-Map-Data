@@ -19,3 +19,8 @@ C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\De
 C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.pdb
 C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD-Create.genruntimeconfig.cache
 C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\ref\CMD-Create.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\neXt Window Managment System.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\Compressed-Map-Data.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\Compressed-Map-Data.pdb
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+C:\Users\deniz\Documents\GitHub\Compressed-Map-Data\CMD-Create\CMD-Create\obj\Debug\net10.0-windows\CMD_Create.AboutPage.resources
